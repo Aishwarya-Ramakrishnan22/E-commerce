@@ -8,7 +8,7 @@
 <hr>
 
 <details>
-<summary><h4> WireFrames </h4></summary><details>
+<summary><h4> WireFrames </h4></summary>
 <h6> Desktop/Home :
 <p align="center">
 <img src="/wireframes/Home.png">
@@ -37,7 +37,4 @@
 <p align="center">
 <img src="/wireframes/Thanks.png">
 </p>
-
-
-
 </details>
