@@ -6,7 +6,9 @@
 <li> MongoDB
 <li> Figma For Wireframes
 <hr>
-<h4> WireFrames 
+
+<details>
+<summary><h4> WireFrames </h4></summary><details>
 <h6> Desktop/Home :
 <p align="center">
 <img src="/wireframes/Home.png">
@@ -35,3 +37,7 @@
 <p align="center">
 <img src="/wireframes/Thanks.png">
 </p>
+
+
+
+</details>
