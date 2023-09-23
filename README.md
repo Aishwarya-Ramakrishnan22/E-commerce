@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-commerce
 <p>This app will be Developed on the following Tech stack : </p>
 <li> React 
@@ -42,6 +41,3 @@
 
 
 </details>
-=======
-# E-commerce
->>>>>>> parent of 33247b4 (Update README.md)
